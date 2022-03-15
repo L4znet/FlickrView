@@ -17,7 +17,7 @@ const store = createStore(rootReducer)
 
 function changeLanguage(language) {
     return {
-        type: 'ADD_TODO',
+        type: 'test',
         language
     }
 }
