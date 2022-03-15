@@ -1,0 +1,56 @@
+{
+  "home": [
+    {
+      "english":[
+        {
+          "searchbarPlaceholder":"Search for photos",
+          "searchbarButton":"Search",
+          "enterSearchTerm": "Please enter a keyword to search for photos."
+        }
+      ],
+      "français":[
+        {
+          "searchbarPlaceholder":"Vous recherchez ?",
+          "searchbarButton":"Rechercher",
+          "enterSearchTerm": "Vous ne pouvez pas lancer de recherche sans écrire quelque chose"
+        }
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "english":[
+        {
+          "title":"Back to results",
+          "favoritesButton":"Favorites",
+          "searchButton":"Search"
+        }
+      ],
+      "français":[
+        {
+          "title":"Retour aux résultats",
+          "favoritesButton":"Vos favoris",
+          "searchButton":"Recherche"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "english":[
+        {
+          "title":"Results for",
+          "favoritesButton":"Favorites",
+          "searchButton":"Search"
+        }
+      ],
+      "français":[
+        {
+          "title":"Les résultats pour",
+          "favoritesButton":"Vos favoris",
+          "searchButton":"Recherche"
+        }
+      ]
+    }
+  ]
+}
