@@ -1,6 +1,6 @@
 # FlickrView
 
-Un clone de Flickr réalisé dans le cadre d'un teste technique.
+Un mini clone de Flickr
 
 ## Stack du projet
 
